@@ -17,6 +17,8 @@ public class StringClassAll {
 		System.out.println(chars);
 		
 		//commits not visible in github desktop
+		
+		System.out.println("Dummy");
 
 	}
 
