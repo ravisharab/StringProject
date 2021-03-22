@@ -9,6 +9,7 @@ public class StringClassAll {
 		
 		//at 2 character the output is r
 		String strName = "BankOfAmerica";
+		
 		char at = strName.charAt(2);
 		System.out.println(at);
 		
@@ -19,6 +20,9 @@ public class StringClassAll {
 		//commits not visible in github desktop
 		
 		System.out.println("Dummy");
+		
+		int compareTo = strName.compareTo("Chase");
+		System.out.println(compareTo);
 
 	}
 
